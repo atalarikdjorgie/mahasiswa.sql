@@ -12,10 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Mahasiswadb"
         tools:targetApi="31">
-        <activity
-            android:name=".UbahActivity"
-            android:parentActivityName=".MainActivity"
-            android:exported="false" />
+
         <activity
             android:name=".TambahActivity"
             android:parentActivityName=".MainActivity"
